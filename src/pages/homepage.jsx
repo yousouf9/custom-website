@@ -20,7 +20,6 @@ import AllProjects from "../components/projects/allProjects";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 import myArticles from "../data/articles";
-
 import "./styles/homepage.css";
 
 const Homepage = () => {
@@ -97,6 +96,14 @@ const Homepage = () => {
 
 								<div className="subtitle homepage-subtitle">
 									{INFO.homepage.description}
+									<a
+										href={'/about'}
+										rel="noreferrer"
+									>
+										click here
+									</a>
+									<span style={{paddingLeft: '5px'}}></span>
+									to continue
 								</div>
 							</div>
 
@@ -104,7 +111,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="images/home/home.png"
 											alt="about"
 											className="homepage-image"
 										/>

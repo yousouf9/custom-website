@@ -31,10 +31,19 @@
 
 .about-title {
 	width: 100% !important;
+	font-size: 24px !important;
+}
+
+.about-title2 {
+	width: 100% !important;
+	font-size: 18px !important;
+	margin-top: 15px !important;
+	margin-bottom: -15px;
 }
 
 .about-subtitle {
 	width: 80% !important;
+	text-align: justify;
 }
 
 .about-left-side {

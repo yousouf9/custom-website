@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Compt. Suleiman Umar Pai",
+		name: "Suleiman Umar Pai.",
+		email: "example@gmail.com",
 		logo: "../logo.png",
 	},
 
@@ -16,15 +16,31 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "COMPT. SULEIMAN UMAR",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Compt. Suleiman Umar Pai was born on the 25th May, 1963 in a small Fulani settlement called Pai in the present Kwali Area council of FCT Abuja. He started his primary education at Dawaki Primary school Suleja and completed at Central Primary School Minna, where he obtained his First School Leaving Certificate in 1976. From there he proceeded to Government Secondary School Suleja where he received his Secondary School Leaving Certificate in 1981. He again proceeded to University of Sokoto now known as Usman Dan Fodio University Sokoto where he graduated with a B.Sc. degree in Management Studies in 1986...",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
-		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		title1: "COMPT. SULEIMAN UMAR",
+		description1:
+			" Compt. Suleiman Umar Pai was born on the 25th May, 1963 in a small Fulani settlement called Pai in the present Kwali Area council of FCT Abuja.",
+		description11: 'He started his primary education at Dawaki Primary school Suleja and completed at Central Primary School Minna, where he obtained his First School Leaving Certificate in 1976. From there he proceeded to Government Secondary School Suleja where he received his Secondary School Leaving Certificate in 1981. He again proceeded to University of Sokoto now known as Usman Dan Fodio University Sokoto where he graduated with a B.Sc. degree in Management Studies in 1986.',
+		description12: 'As the National constitution demands, Compt. Suleiman Umar Pai, proceeded to Oyo state for his NYSC where he contributed his quota to the National development. In 1987 he joined the Nigeria Customs Service as an Asst. Supt II where he rigorously and successfully tailored his career around the Nigerian Customs and rose through the ranks to become a Comptroller.',
+		description13: 'Compt. Suleiman Umar Pai, attended many conferences and courses both in Nigeria and abroad while in the Service. Also while in service, he had worked virtually in all the states of Federation.',
+		title2: "DEPARTMENT HEAD AND UNITS.",
+		description2: 'Compt. Suleiman Umar Pai was in charge of the Procurement unit of the NCS at the Hqts. Like they said, a Golden fish has no hiding place, he was quickly identified because of his hard work, commitment and sincerity, he was posted to head another confidential and highly profile unit of the Nigerian custom service called the Customs Intelligence Unit (CIU). While there, he worked tirelessly and provided purposeful leadership with useful intelligence that resulted to several seizures across the country. Having served for two years as the Compt CIU, He was again posted as the Area Comptroller in charge of Kano/Jigawa States where he served for one and half years . While in kano/jigawa , he made several important seizures of various contrabands ranging from foreign rice, spaghetti, tomatoes, vegetable oil , second clothing, used tires and other dangerous items such as hard drugs. It is also on record that he made the highest interception of foreign currencies intended to be smuggled out of the Country at the Aminu kano International Airport, Kano',
+		description21: 'Compt. Suleiman Umar Pai, participated in several Nigerian customs service operation across the Country. He has the responsibility of leading his team towards achieving Key successes in intercepting contrabands. Compt. Suleiman Umar Pai is a self-motivated person who constantly improves himself through various engagements and has an enormous interest in Revenue Generation, facilitation of trade and suppression of smuggling nationwide.',
+		description22: 'Compt. Suleiman Umar Pai was later transferred back to the Head Quarters in Abuja to Head the procurement Unit for the second time. From there, he honorably retired from service.',
+		title3: 'AWARDS RECEIVED:',
+		awards:[
+			'MSC AFRICA INTERNATIONAL (Gold award for outstanding service)',
+			'NORTHERN TOURISM JOURNALIST’S The Nigeria Merit Award 2021 (Icon of nation building)',
+			'IBRAHIM GALADIMA HIF JUNIOR AND CADIT JUDO CHAMPIONSHIP Nortwest Zone Kano 2021 (Award of Appreciation)',
+			'MOONLIGHTNEWS (Epitome of good leadership)',
+			'INTER-FEDRAL CIVIL SERVANT (Team merit of merit)',
+			'LEADTIMES AFRICA MAGAZINE (Leadership award)'
+		]
 	},
 
 	articles: {
