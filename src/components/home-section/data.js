@@ -1,6 +1,83 @@
 
 export const images = [
   {
+    src: "images/home/img_1.png",
+    original: "images/home/img_1.png",
+    width: 320,
+    height: 174,
+    tags: [
+      { value: "Award", title: "Award" },
+      { value: "Professional", title: "Professional" },
+    ],
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_2.png",
+    original: "images/home/img_2.png",
+    width: 320,
+    height: 212,
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_3.png",
+    original: "images/home/img_3.png",
+    width: 320,
+    height: 212,
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_4.png",
+    original: "images/home/img_4.png",
+    width: 320,
+    height: 215,
+    tags: [{ value: "Award", title: "Award" }],
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_5.png",
+    original: "images/home/img_5.png",
+    width: 257,
+    height: 320,
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_6.png",
+    original: "images/home/img_6.png",
+    width: 226,
+    height: 320,
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_7.png",
+    original: "images/home/img_7.png",
+    width: 320,
+    height: 215,
+    tags: [{ value: "Fellowship", title: "Fellowship" }],
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_8.png",
+    original: "images/home/img_8.png",
+    width: 257,
+    height: 320,
+    caption: "Professional Fellowship Doctorate award",
+  },
+  {
+    src: "images/home/img_9.png",
+    original: "images/home/img_9.png",
+    width: 226,
+    height: 320,
+    caption: "Professional Fellowship Doctorate award",
+  },
+
+
+
+
+
+
+
+
+  {
     src: "images/home/image-1.png",
     original: "images/home/image-1.png",
     width: 320,
